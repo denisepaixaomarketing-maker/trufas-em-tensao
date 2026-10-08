@@ -19,7 +19,11 @@
 .reservation .experience-price__value{font-family:var(--display);font-size:40px;line-height:1.3;margin-top:8px}
 .experience-price__value span{display:block;font-family:var(--body);font-size:15px;line-height:1.8;margin-top:6px}
 .concept .portrait--trufas img{aspect-ratio:1280/853;object-position:center}
-.signature-photo{width:200px;max-width:100%;height:auto;aspect-ratio:1;object-fit:cover;object-position:center;margin:0 auto 28px;filter:grayscale(1)}
+.signature-grid article{text-align:center;border-top:0;padding-top:0}
+.signature-portrait{width:232px;max-width:100%;margin:0 auto 30px;padding:7px;border:1px solid #dbc99555}
+.signature-photo{width:100%;height:auto;aspect-ratio:4/5;object-fit:cover;object-position:center top;margin:0;filter:grayscale(1)}
+.signature-grid h3{min-height:82px;display:flex;align-items:center;justify-content:center;max-width:400px;margin:0 auto;line-height:1.08}
+.signature-grid article>p:not(.kicker){max-width:400px;margin:18px auto 0;padding-top:22px;border-top:1px solid #dbc99540;line-height:1.9}
 .motion [data-reveal]{opacity:0;transform:translateY(20px);transition:opacity .8s ease,transform .8s ease}.motion [data-reveal].visible{opacity:1;transform:none}
 @media(min-width:1600px){.hero h1{font-size:128px}.hero-content{padding-block:160px 110px}}
 @media(max-width:1000px){nav{gap:20px}.two-columns,.inclusions-layout{gap:48px}.hero h1{font-size:90px}h2{font-size:48px}.section{padding-block:86px}.signature-grid{gap:48px}}
