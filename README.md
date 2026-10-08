@@ -21,6 +21,8 @@ A capa em `assets/resid-mesa-hero.png` é uma composição editorial ilustrativa
 
 ## Publicar
 
+A imagem do conceito em `assets/resid-conceito-mesa.png` também é ilustrativa, criada com ImageGen. Prompt: detalhe de mesa de jantar em madeira, pequena trufa negra em louça clara, taça de vinho, linho e um gesto discreto de um convidado; luz acolhedora e atmosfera verde Resid. Não representa um prato específico do menu.
+
 Na Vercel, selecione `Other`, sem comando de build, usando esta pasta como raiz. O domínio e a imagem social com URL absoluta devem ser configurados quando o endereço de publicação estiver definido.
 
 O briefing interno não integra os arquivos da página. Orçamento, metas comerciais, riscos, responsáveis operacionais e pendências não são publicados.
