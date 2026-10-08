@@ -1,6 +1,6 @@
 # Trufas em tensão | Experiências Resid
 
-Landing page da experiência de 22 de outubro de 2026, das 19h às 22h, no Resid Bar. Trufas brasileiras e italianas em cinco tempos por Alex Atala, com harmonização de Gabriela Monteleone.
+Landing page da experiência de 22 de outubro de 2026, das 19h às 22h, no Resid Bar. Um jantar dedicado às trufas em cinco tempos por Alex Atala, com harmonização de Gabriela Monteleone.
 
 ## Visualizar
 
