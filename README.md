@@ -17,7 +17,7 @@ Logotipo e favicon Resid, verde institucional, títulos em PP Pangaia e textos e
 - `script.js`: reserva, revelações e movimento ao rolar.
 - `assets/`: imagens, logotipo, favicons e fonte local.
 
-A capa é uma composição editorial ilustrativa gerada por IA, não um registro do evento. Prompt: fotografia editorial de trufas negras e brancas em prato escuro sobre linho verde, luz natural e espaço à esquerda para o título. A foto do conceito e os retratos de Alex Atala e Gabriela Monteleone foram fornecidos para esta página. A foto do jantar foi reaproveitada da landing anterior.
+A capa em `assets/resid-mesa-hero.png` é uma composição editorial ilustrativa gerada por IA com a ferramenta ImageGen, não um registro do evento ou do menu. Prompt: mesa íntima de jantar em madeira, louça clara, taças de vinho e luz acolhedora; uma pequena trufa negra em um prato lateral, em escala natural, com espaço à esquerda para o título. A foto do conceito, os retratos, o registro do brinde e as fotos de Modena foram fornecidos para esta página.
 
 ## Publicar
 
